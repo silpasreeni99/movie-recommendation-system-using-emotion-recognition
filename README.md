@@ -72,3 +72,11 @@ Draw emotions faces next to the detected face.
 If any issues and suggestions to me, you can create an [issue](https://github.com/omar178/Emotion-recognition/issues).
 
 If you like this work please help me by giving me some stars.
+
+The above part is actually for the facial expression recognition part.
+The main aim of my project is to suggest movies to the user based on the emotion recognized using the above method.
+So once the emotion is being detected it is being passed to the next portion of the code , where based on the emotion detected ,  top 10 movies are being suggested
+to the user!!!
+
+
+Hope you guys are able to use the code I have provided and explore a wonderful project!!
