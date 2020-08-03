@@ -4,12 +4,15 @@
 
 # Description:
 
-The main aim of my project is to suggest movies to the user based on the emotion recognized.
-
+	Choosing the right movie to watch is not an easy job. We maybe in the state of mind to watch something which makes us feel good, or may want to watch some melodrama due to our sober state of mind, or may want to watch some movie which helps us to connect with music and relieve ourselves or maybe just watch something such that we relate to the characters on an emotional level. 
+	We can’t settle upon a decision by just assuming what kind of emotion we are experiencing and choose something to watch based on that. 
+	This is the main reason for the creation of a movie recommendation system which suggests apt movies to the user based on the user’s current emotion. This will help in making the user’s movie experience, a better one.
+	The major factor for movie recommendation will be the user’s current emotion, which will be recognized through an automated process.
 
 ## What does Emotion Recognition mean?
 
-Emotion recognition is a technique used in software that allows a program to "read" the emotions on a human face using advanced image processing. Companies have been experimenting with combining sophisticated algorithms with image processing techniques that have emerged in the past ten years to understand more about what an image or a video of a person's face tells us about how he/she is feeling and not just that but also showing the probabilities of mixed emotions a face could has.
+	Emotion Recognition is the process of recognizing the emotions on human face by using advanced image processing techniques.
+
 
 # Installations:
 -keras
@@ -50,6 +53,14 @@ Download it and put the csv in fer2013/fer2013/
 
 # Credits
 The emotion recognition part is inspired from [this](https://github.com/omar178/Emotion-recognition) great work.
+
+
+# Web scraping process
+	The process of extracting useful information and data from a webpage by accessing the HTML of it is called as web scraping.
+	So for this project, we are using the web scraping process to segregate information from the website by using python and BeautifulSoup. 
+	We use web scarping process for the movie recommendation part
+
+
 
 
 
